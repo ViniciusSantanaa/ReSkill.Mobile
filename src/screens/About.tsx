@@ -3,10 +3,8 @@ import { View, Text, StyleSheet, TouchableOpacity, Clipboard, Alert } from 'reac
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../types/navigation';
 
-// --- CONFIGURAÇÃO MANUAL DO HASH ---
-// Depois de subir no GitHub, você vai copiar o código lá e colar aqui.
-export const COMMIT_HASH = "Ainda não gerado"; 
-// -----------------------------------
+export const COMMIT_HASH = "e90ccc0"; 
+
 
 type Props = {
   navigation: NativeStackNavigationProp<RootStackParamList, 'About'>;
