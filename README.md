@@ -41,3 +41,6 @@ O aplicativo se conecta a uma API RESTful (.NET) para garantir a persistência e
 
 ## Link do repositório .Net caso necessário
 https://github.com/ViniciusSantanaa/ReSkill-API.git
+
+## Link vídeo do Youtube 
+--Sem link ainda 
